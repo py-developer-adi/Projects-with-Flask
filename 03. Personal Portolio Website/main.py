@@ -52,7 +52,7 @@ def send():
     msg = Message(
         title,
         sender=email,
-        recipients=['adiprofitcoder@gmail.com']
+        recipients=['host@gmail.com']
     )
     msg.body = message
     mail.send(msg)
