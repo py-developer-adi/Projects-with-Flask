@@ -1,0 +1,18 @@
+[
+    {
+        "id": "d52e8fe0-383c-4429-b26c-937da3eb01c7",
+        "title": "The Millionaire Fastlane",
+        "author": "MJ Demarco",
+        "isbn": "9780984358106",
+        "published": "2011-01-01",
+        "stock": 1000
+    },
+    {
+        "id": "643664ba-3e16-408f-b953-8a4a71bad51c",
+        "title": "The 48 Laws of Power",
+        "author": "Robert Greene",
+        "isbn": "9780984358109",
+        "published": "2009-01-09",
+        "stock": 800
+    }
+]
